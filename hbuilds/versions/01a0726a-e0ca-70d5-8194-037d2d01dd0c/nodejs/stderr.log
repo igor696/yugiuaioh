@@ -1,0 +1,900 @@
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1419
+      throw err;
+      ^
+
+[Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/preload-timestamp.js not supported.
+preload-timestamp.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead either rename preload-timestamp.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /home/u686297406/domains/yugiuaioh.com.br/hbuilds/config/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+] {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8

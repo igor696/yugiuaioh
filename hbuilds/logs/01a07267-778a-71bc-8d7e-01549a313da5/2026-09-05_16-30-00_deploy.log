@@ -1,0 +1,12 @@
+
+up to date, audited 1 package in 641ms
+
+found 0 vulnerabilities
+
+> yugiuaioh@1.0.0 build
+> node build.mjs
+
+  + server (1).mjs
+AVISO: nao existe index.html na raiz. O site pode abrir em branco.
+
+Build OK: 1 item(ns) copiado(s) para dist/

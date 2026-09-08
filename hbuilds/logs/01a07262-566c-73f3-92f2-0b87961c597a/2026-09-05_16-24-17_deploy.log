@@ -1,0 +1,23 @@
+
+up to date, audited 1 package in 693ms
+
+found 0 vulnerabilities
+
+> yugiuaioh@1.0.0 build
+> node build.mjs
+
+node:internal/modules/cjs/loader:1143
+  throw err;
+  ^
+
+Error: Cannot find module '/home/u686297406/domains/yugiuaioh.com.br/hbuilds/source/repository/build.mjs'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.20.8
+[31mERROR: Failed to build the application[0m

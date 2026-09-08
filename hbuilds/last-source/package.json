@@ -1,0 +1,24 @@
+{
+  "name": "yugiuaioh",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site yugiuaioh.com.br",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node server.mjs",
+    "dev": "node build.mjs && node server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "browserslist": [
+    "defaults"
+  ],
+  "keywords": [
+    "yugioh",
+    "site"
+  ],
+  "license": "UNLICENSED"
+}
