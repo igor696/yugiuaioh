@@ -1,0 +1,14 @@
+{
+  "name": "Yu Gi Uai Oh",
+  "short_name": "Yu Gi Uai Oh",
+  "description": "Duelo de cartas com as regras do manual, campanha contra a máquina, coleção e decks.",
+  "start_url": "/painel.php",
+  "display": "standalone",
+  "background_color": "#150F20",
+  "theme_color": "#150F20",
+  "orientation": "any",
+  "icons": [
+    { "src": "/assets/img/logo/icone.png",     "sizes": "64x64",   "type": "image/png" },
+    { "src": "/assets/img/logo/logo-mini.png", "sizes": "256x256", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,3 @@
+# Site fechado, com cadastro por convite. Não há nada a indexar.
+User-agent: *
+Disallow: /
